@@ -1,0 +1,23 @@
+---Set terminal
+
+
+>>Open powershell
+
+>>winget install Python.Python.3.11
+
+>>cd desktop
+
+>>mkdir label-studio
+
+>>cd label-studio
+
+>>python -m venv .venv
+
+>>.venv\Scripts\activate
+
+>>pip install label-studio
+
+>>label-studio
+
+---After open website
+
